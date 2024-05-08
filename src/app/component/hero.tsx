@@ -53,9 +53,9 @@ export default function Hero() {
   className="object-cover rounded"
   alt="hero"
   src={require("../../../public/picture/NAVEED-removebg-preview.jpg")}
-  width={300}
-  height={300}
-  style={{ objectPosition: '100% 50%' }} // Set object position to right
+  width={600}
+  height={100}
+  style={{ objectPosition: '50% 50%' }} // Set object position to right
 />
 
         </div>
