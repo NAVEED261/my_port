@@ -27,7 +27,7 @@ export default function Navbar() {
             <span className="ml-3 text-xl">MY_PORTFOLIO</span>
           </div>
           <div className="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
-            <Link href="/cv/HAFIZ NAVEED UDDIN CV.docx">
+            <Link href="/cv/MY CV.docx">
               <button className="inline-flex items-center bg-gradient-to-r from-purple-400 to-pink-500 border-0 py-2 px-6 focus:outline-none hover:bg-gradient-to-r from-purple-500 to-pink-600 rounded-full text-white text-base mt-4 md:mt-0">
                 Download cv
                 <AiOutlineDownload className="text-xl ml-2" />

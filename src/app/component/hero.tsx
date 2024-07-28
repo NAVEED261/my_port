@@ -50,12 +50,12 @@ export default function Hero() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
         <Image
-  className="object-cover rounded"
+  className="rounded-xl"
   alt="hero"
   src={require("../../../public/picture/NAVEED-removebg-preview.jpg")}
   width={600}
   height={100}
-  style={{ objectPosition: '50% 50%' }} // Set object position to right
+  style={{ objectPosition: '40% 40%' }} // Set object position to right
 />
 
         </div>
